@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.1.0-alpha.0"></a>
+## [0.1.0-alpha.0](https://www.github.com/PyMath-Projects/GitHooksDemo/releases/tag/v0.1.0-alpha.0) (2023-9-8)
+
+### Features
+
+* Add another weather type for Durban. ([1a5f554](https://www.github.com/PyMath-Projects/GitHooksDemo/commit/1a5f5545e24b2a1bee768af44eebcc013d91f0b9))
+
+### Other
+
+* Merge 1a5f5545e24b2a1bee768af44eebcc013d91f0b9 into 9cc404643ac520b990de4c7e8928807a4f6fe6cc ([b452a64](https://www.github.com/PyMath-Projects/GitHooksDemo/commit/b452a64f949caa1fa9076a55a43b6affad2d139b))
+
 <a name="0.0.1"></a>
 ## [0.0.1](https://www.github.com/PyMath-Projects/GitHooksDemo/releases/tag/v0.0.1) (2023-9-8)
 
