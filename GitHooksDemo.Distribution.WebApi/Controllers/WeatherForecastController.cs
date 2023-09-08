@@ -20,7 +20,8 @@ public class WeatherForecastController : ControllerBase
         "Scorching",
         "Jorburg",
         "Durban",
-        "Capetown"
+        "Capetown",
+        "Bloem"
     };
 
     private readonly ILogger<WeatherForecastController> _logger;
