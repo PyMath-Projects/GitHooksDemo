@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [versionize](https://github.com/versionize/versionize) for commit guidelines.
 
+<a name="0.1.0-alpha.1"></a>
+## [0.1.0-alpha.1](https://www.github.com/PyMath-Projects/GitHooksDemo/releases/tag/v0.1.0-alpha.1) (2023-9-8)
+
+### Features
+
+* **Weather Services:** Added capetown weather. ([5388760](https://www.github.com/PyMath-Projects/GitHooksDemo/commit/538876098b4018f3bded79c373c292b9549d61c8))
+
+### Other
+
+* Merge 538876098b4018f3bded79c373c292b9549d61c8 into 9b07e85440a74279c82ef0a81818ef0d62ee47ee ([c80e5a2](https://www.github.com/PyMath-Projects/GitHooksDemo/commit/c80e5a23a211508dcc24630ad2dd47d7035052a7))
+* Make the code look nicer. ([cf3a75b](https://www.github.com/PyMath-Projects/GitHooksDemo/commit/cf3a75ba03b4daffe4a2a5681c5786a8ca5bc47e))
+
 <a name="0.1.0-alpha.0"></a>
 ## [0.1.0-alpha.0](https://www.github.com/PyMath-Projects/GitHooksDemo/releases/tag/v0.1.0-alpha.0) (2023-9-8)
 
