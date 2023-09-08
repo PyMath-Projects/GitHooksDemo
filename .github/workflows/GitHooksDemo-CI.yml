@@ -10,7 +10,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      WORKING_DIR: ./GitHooksDemo
+      WORKING_DIR: ./
     defaults:
       run:
         working-directory: ${{ env.WORKING_DIR }}
