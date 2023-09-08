@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "_Build", "_Build", "{E484643D-D9C5-4BB3-A424-9EA573D341CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_GitHooksDemo.Build.Development", "_GitHooksDemo.Build.Development\_GitHooksDemo.Build.Development.csproj", "{3447DF9D-4F34-4AEC-ABE6-969155E29F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_GitHooksDemo.Build.Release", "_GitHooksDemo.Build.Release\_GitHooksDemo.Build.Release.csproj", "{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Distribution", "Distribution", "{9D280B0E-F0F6-44C2-9185-0C12387B6D2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHooksDemo.Distribution.WebApi", "GitHooksDemo.Distribution.WebApi\GitHooksDemo.Distribution.WebApi.csproj", "{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3447DF9D-4F34-4AEC-ABE6-969155E29F91} = {E484643D-D9C5-4BB3-A424-9EA573D341CC}
+		{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E} = {E484643D-D9C5-4BB3-A424-9EA573D341CC}
+		{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49} = {9D280B0E-F0F6-44C2-9185-0C12387B6D2D}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3447DF9D-4F34-4AEC-ABE6-969155E29F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3447DF9D-4F34-4AEC-ABE6-969155E29F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3447DF9D-4F34-4AEC-ABE6-969155E29F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3447DF9D-4F34-4AEC-ABE6-969155E29F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC1E1A81-2E9C-4F82-8D9F-8CD6C9323F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A825D4ED-D407-4EC2-A3F4-CFC1205CDD49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
